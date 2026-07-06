@@ -177,3 +177,19 @@ I designed a comprehensive, 3-page interactive report tailored for restaurant ma
 3. **Staff & Labor Rota Page:** Built to optimize shift scheduling and manage labor budgets. It breaks down total hours worked against the hourly rates of each employee, providing a clear and actionable view of the restaurant's daily operational labor expenses.
 
 <img src="images/3.png" width="100%" alt="Staff & Labor Rota Dashboard">
+
+.
+## ⚙️ How to Run This Project
+1. Clone this repository to your local machine.
+2. Import the database schema and `.csv` datasets into your MySQL instance using Navicat or MySQL Workbench.
+3. Open the Power BI file (`.pbix`) and update the data source settings to connect to your local MySQL server.
+
+---
+
+## 📬 Contact & Connect
+If you have any questions, feedback, or would like to discuss this project further, feel free to reach out!
+
+- **LinkedIn:** [https://www.linkedin.com/in/hastiattar/)
+- **Email:** [Hkazemattar@gmail.com]
+- **GitHub:** [https://github.com/Hastiattar)
+
